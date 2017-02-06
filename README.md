@@ -2,6 +2,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ChiTu Controller is developed by CBD Technology Co., Ltd. 
 All details of the motherboard and software can download from the official website. The Official website is www.cbd-3d.com
  
+ 
+#  Development History
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shenzhen CBD Technology Co., Ltd. was established in 2013, focusing on 3D printer control system development. Has been for enterprise customers to provide professional control system program. After a number of years of industry precipitation and technology accumulation, we have developed into a well-known high-tech enterprise in 3D printing industry.
  "Pragmatic, rigorous, innovative and efficient" is our corporate genes. Our products have been walking in the forefront of 3D printing industry, has been firmly occupy the high-end market. CBD Technology "focus on creating value", is committed to providing professional and stable technical solutions for customers to create higher value!
  
