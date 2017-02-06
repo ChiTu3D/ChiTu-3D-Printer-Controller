@@ -1,5 +1,4 @@
-
-
+<img align="top" width=175 src="https://cloud.githubusercontent.com/assets/25577959/22647081/7f5791fe-ecaa-11e6-9df2-6caa0d8c398c.png" />
 
 
 # ChiTu-3D-Printer-Controller
