@@ -1,6 +1,7 @@
 # ChiTu-3D-Printer-Controller
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ChiTu Controller is developed by CBD Technology Co., Ltd. 
-All details of the motherboard and software can download from the official website. The Official website is www.cbd-3d.com
+All details of the motherboard and software can download from the official website. 
+The Official website is www.cbd-3d.com  and   www.chitu3d.com 
  
  
 #  Development History
