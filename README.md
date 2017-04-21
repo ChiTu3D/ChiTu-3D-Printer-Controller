@@ -2,6 +2,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ChiTu Controller is developed by CBD Technology Co., Ltd. 
 All details of the motherboard and software can download from the official website. 
 The Official website is www.cbd-3d.com  and   www.chitu3d.com 
+If you want to use the ChiTu controller, please download ChiTu Client Setup  http://www.pan.baidu.com/s/1dE4rLN7
  
  
 #  Development History
